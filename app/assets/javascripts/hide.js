@@ -1,5 +1,5 @@
 function hideWhenClicked() {
   $("Click To Hide Me").click(function () {
-    $("id").hide();
+    $("a href").hide(1000);
   })
 }
