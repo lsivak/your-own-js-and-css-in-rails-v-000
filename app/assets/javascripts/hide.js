@@ -1,5 +1,5 @@
 function hideWhenClicked() {
-  $(".error").click(function () {
+  $(".click_this").click(function () {
     $(a href).hide();
   })
 }
