@@ -1,5 +1,5 @@
 function hideWhenClicked(event) {
-  $("#event").click(function () {
+  $("#hide_this").click(function () {
     this.hide();
   })
 }
