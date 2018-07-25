@@ -1,6 +1,6 @@
 function hideWhenClicked(event) {
-const $lost = $(event.lost)
-$lost.hide()
+const $target = $(event.target)
+$target.hide()
 
 }
-$('#hide_this').click(hideWhenClicked);
+// $('#hide_this').click(hideWhenClicked);
