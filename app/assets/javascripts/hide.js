@@ -1,5 +1,5 @@
 function hideWhenClicked() {
-  $("#hide").click(function () {
+  $("#hide_this").click(function () {
     $("#Click To Hide Me").hide()
   })
 }
